@@ -1,0 +1,26 @@
+{
+  "name": "argus-keepalive-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whelan9453/argus-keepalive-test.git"
+  },
+  "author": "whelan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whelan9453/argus-keepalive-test/issues"
+  },
+  "homepage": "https://github.com/whelan9453/argus-keepalive-test#readme",
+  "dependencies": {
+    "@feathersjs/express": "^4.5.4",
+    "@feathersjs/feathers": "^4.5.3",
+    "agentkeepalive": "^4.1.2",
+    "http-proxy-middleware": "^1.0.3",
+    "http-status-codes": "^1.4.0"
+  }
+}
